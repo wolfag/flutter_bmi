@@ -1,4 +1,4 @@
-# timer
+# BMI calculator
 
 A new Flutter project.
 
